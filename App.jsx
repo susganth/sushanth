@@ -1,12 +1,12 @@
+
+
 import React from 'react';
-import ThemeToggle from './ThemeToggle';
+import FlashcardsApp from './FlashcardsApp';
 
 function App() {
   return (
     <div className="App">
-      <h1>My App</h1>
-      <ThemeToggle />
-      {/* Other components */}
+      <FlashcardsApp />
     </div>
   );
 }
